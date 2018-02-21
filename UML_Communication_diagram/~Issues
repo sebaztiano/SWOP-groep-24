@@ -1,1 +1,2 @@
-How to make comunication between graphical view and controller?
+Voor ieder object aparte controller en een generale controller met zelfde interface, maar controller is nooit abstract het is een klasse. 
+Is dit dan wel een goed desigen?
