@@ -1,2 +1,4 @@
-First iteration: A view also exist in PNG and file for visual paradigm(If you have better solutions then simply edit this file and make copy in new folder so that we can discuss it later).
-Evaluate this version and point out the mistakes ;) 
+Refinement of the first version of diagrams with two succes-case scenarios.
+.PNG files are captured from the latest version of .VPP(Visual paradigm) files. 
+
+
